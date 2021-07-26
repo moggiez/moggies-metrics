@@ -1,6 +1,6 @@
 # Moggies Auth
 
-Wrapper around lambda authentication and authorization.
+Helper functions for CloudWatch metrics for moggies.io.
 
 ## Login to Github NPM
 
